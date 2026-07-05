@@ -1,11 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashmap = {}
+        hash_map={}
+        for key,value in enumerate(nums):
+            req=target-value
+            if req in hash_map:
+                return [hash_map[req],key]
+            hash_map[value]=key
 
-        for i, num in enumerate(nums):
-            complement = target - num
-
-            if complement in hashmap:
-                return [hashmap[complement], i]
-
-            hashmap[num] = i

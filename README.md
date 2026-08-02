@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vibhulala/array_revision/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vibhulala/array_revision/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vibhulala/array_revision/tree/master/0992-subarrays-with-k-different-integers) |
+| [1732-find-the-highest-altitude](https://github.com/vibhulala/array_revision/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vibhulala/array_revision/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/vibhulala/array_revision/tree/master/0713-subarray-product-less-than-k) |
+| [1732-find-the-highest-altitude](https://github.com/vibhulala/array_revision/tree/master/1732-find-the-highest-altitude) |
 ## Queue
 |  |
 | ------- |

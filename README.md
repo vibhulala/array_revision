@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vibhulala/array_revision/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vibhulala/array_revision/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vibhulala/array_revision/tree/master/0713-subarray-product-less-than-k) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vibhulala/array_revision/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vibhulala/array_revision/tree/master/0992-subarrays-with-k-different-integers) |
 | [1732-find-the-highest-altitude](https://github.com/vibhulala/array_revision/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vibhulala/array_revision/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/vibhulala/array_revision/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vibhulala/array_revision/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Math
 |  |
 | ------- |

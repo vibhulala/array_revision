@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vibhulala/array_revision/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vibhulala/array_revision/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/vibhulala/array_revision/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/vibhulala/array_revision/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vibhulala/array_revision/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vibhulala/array_revision/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vibhulala/array_revision/tree/master/0239-sliding-window-maximum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vibhulala/array_revision/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vibhulala/array_revision/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/vibhulala/array_revision/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vibhulala/array_revision/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/vibhulala/array_revision/tree/master/0189-rotate-array) |
 | [0528-random-pick-with-weight](https://github.com/vibhulala/array_revision/tree/master/0528-random-pick-with-weight) |
 ## Matrix
 |  |

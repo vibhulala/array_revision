@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vibhulala/array_revision/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/vibhulala/array_revision/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vibhulala/array_revision/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/vibhulala/array_revision/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/vibhulala/array_revision/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/vibhulala/array_revision/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vibhulala/array_revision/tree/master/0643-maximum-average-subarray-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vibhulala/array_revision/tree/master/0001-two-sum) |
+| [0523-continuous-subarray-sum](https://github.com/vibhulala/array_revision/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vibhulala/array_revision/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vibhulala/array_revision/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vibhulala/array_revision/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vibhulala/array_revision/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/vibhulala/array_revision/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/vibhulala/array_revision/tree/master/0528-random-pick-with-weight) |
 ## Matrix
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vibhulala/array_revision/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vibhulala/array_revision/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/vibhulala/array_revision/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/vibhulala/array_revision/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/vibhulala/array_revision/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/vibhulala/array_revision/tree/master/0713-subarray-product-less-than-k) |
@@ -110,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/vibhulala/array_revision/tree/master/0528-random-pick-with-weight) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/vibhulala/array_revision/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

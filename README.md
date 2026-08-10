@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vibhulala/array_revision/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vibhulala/array_revision/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/vibhulala/array_revision/tree/master/0896-monotonic-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vibhulala/array_revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vibhulala/array_revision/tree/master/0992-subarrays-with-k-different-integers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vibhulala/array_revision/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1314-matrix-block-sum](https://github.com/vibhulala/array_revision/tree/master/1314-matrix-block-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vibhulala/array_revision/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/vibhulala/array_revision/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vibhulala/array_revision/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vibhulala/array_revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vibhulala/array_revision/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/vibhulala/array_revision/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/vibhulala/array_revision/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/vibhulala/array_revision/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vibhulala/array_revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/vibhulala/array_revision/tree/master/1314-matrix-block-sum) |
 | [1732-find-the-highest-altitude](https://github.com/vibhulala/array_revision/tree/master/1732-find-the-highest-altitude) |
 ## Queue
